@@ -4,6 +4,7 @@ This is the design documentation and boulding plans for a wood enclosure fitting
 
 <img align="left" src="images/2018110401.jpg">
 
+## Details
  * Frame Material: 	12mm quality sina plywood
  * Top Material:	5mm acrylic top cover
  * Feature:		Removable cover for computer control section
