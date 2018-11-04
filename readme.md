@@ -13,6 +13,6 @@ This is the design documentation and building plans for a wood enclosure fitting
 
 <img align="left" src="images/2018110204.jpg">
   
-  
+### 
 <img align="left" src="images/2018110203.jpg">
 
