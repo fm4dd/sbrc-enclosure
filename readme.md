@@ -1,6 +1,6 @@
 # SBRC Enclosure
 
-This is the design documentation and boulding plans for a wood enclosure fitting the <a href="http://relaysbc.sourceforge.net/">single board relay computer (SBRC)</a>.
+This is the design documentation and building plans for a wood enclosure fitting the <a href="http://relaysbc.sourceforge.net/">single board relay computer (SBRC)</a>.
 
 <img align="left" src="images/2018110401.jpg">
 
