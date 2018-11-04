@@ -12,7 +12,7 @@ This is the design documentation and boulding plans for a wood enclosure fitting
  * [images] (Images): 	build images
 
 <img align="left" src="images/2018110204.jpg">
- 
- 
+  
+  
 <img align="left" src="images/2018110203.jpg">
 
