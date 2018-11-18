@@ -11,6 +11,8 @@ This is the design documentation and building plans for a wood enclosure fitting
  * <a href="./CAD">CAD</a>:		DXF and PDF design documents
  * <a href="./images">Images</a>: 	build images
 
+<img align="left" src="images/2018111801.jpg">
+<img align="left" src="images/2018111802.jpg">
 <img align="left" src="images/2018110204.jpg">
   
 <img align="left" src="images/2018110203.jpg">
